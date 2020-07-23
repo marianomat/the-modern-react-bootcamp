@@ -1,0 +1,15 @@
+.Maquina {
+    border: 2px solid black;
+    background: lightcyan;
+    text-align: center;
+    width: 50%;
+    margin: 10px auto;
+}
+
+.Maquina-ganadora {
+    color: green;
+}
+
+.Maquina-perdedora {
+    color: red;
+}

@@ -1,0 +1,29 @@
+.pokedex-cards {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: 320px;
+}
+
+.pokedex-titulo {
+    text-align: center;
+}
+
+.pokedex-exp {
+    text-align: center;
+    margin: 0
+}
+
+.pokedex-result {
+    text-align: center;
+    line-height: 0px;
+}
+
+.pokedex-winner {
+    color: green;
+}
+
+.pokedex-loser {
+    color: red;
+}

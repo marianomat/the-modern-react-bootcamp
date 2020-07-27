@@ -1,0 +1,20 @@
+.TirarDados-dados {
+    margin: 0 auto 0 auto;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.TirarDados-boton {
+    background: rgb(5, 146, 5);
+    font-size: 50px;
+    padding: 30px;
+    border-radius: 10%;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.TirarDados-boton:hover {
+    background: rgb(17, 75, 17);
+}

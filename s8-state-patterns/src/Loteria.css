@@ -1,0 +1,15 @@
+.Loteria-bolas {
+    display:flex;
+    justify-content: space-evenly;
+    width: 50%;
+    margin: auto;
+    flex-wrap: wrap;
+}
+
+.Loteria-boton {
+    margin-top: 20px;
+    padding: 20px;
+    color: white;
+    background-color: teal;
+    font-size: large;
+}

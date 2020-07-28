@@ -1,0 +1,12 @@
+.BolasLoteria {
+    font-size: 40px;
+    font-weight: bold;
+    background-color: green;
+    border-radius: 50%;
+    color: white;
+    width: 3em;
+    display: inline-block;
+    padding-top: 0.75em;
+    text-align: center;
+    height: 2.25em;
+}
